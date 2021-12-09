@@ -328,11 +328,11 @@ hr {
   .tile.tile-2 .tile-inner {
     background: #fff url('../img/campagna.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #fff url('../img/opfer.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: #fff url('../img/chicko.jpg');
     background-size: cover; }
@@ -348,7 +348,7 @@ hr {
   .tile.tile-128 .tile-inner {
     background: #fff url('../img/frau.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(123, 159, 177, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
@@ -356,7 +356,7 @@ hr {
   .tile.tile-256 .tile-inner {
     background: #fff url('../img/ellis.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(123, 159, 177, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
@@ -364,7 +364,7 @@ hr {
   .tile.tile-512 .tile-inner {
     background: #fff url('../img/sebas.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(123, 159, 177, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
@@ -372,7 +372,7 @@ hr {
   .tile.tile-1024 .tile-inner {
     background: #fff url('../img/leib.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(123, 159, 177, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
@@ -380,7 +380,7 @@ hr {
   .tile.tile-2048 .tile-inner {
     background: #fff url('../img/ashley.jpg');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(123, 159, 177, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    box-shadow: 0 0 30px 10px rgba(51, 116, 255, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
